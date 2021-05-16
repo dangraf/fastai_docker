@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build . -t fastai:latest 
+docker build . -t fastai_dev:latest 
