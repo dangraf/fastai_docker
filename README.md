@@ -7,3 +7,4 @@ How to run:
 1. Build the image by $: ./build.sh
 1. Run the image by running $: ./run_docker.sh
 1. Start a jupyter notebook on port 8881 inside the container by running $: ./run_jupyter.sh
+
